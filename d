@@ -1,0 +1,3 @@
+ıkk
+dd
+print('gg')
