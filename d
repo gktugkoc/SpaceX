@@ -1,3 +1,0 @@
-ıkk
-dd
-print('gg')
